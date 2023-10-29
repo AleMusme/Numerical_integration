@@ -1,0 +1,7 @@
+2
+3.14
+0.01
+
+input >> thickness = 0 for slab, 1 for exponential, 2 for sech2
+input >> r0    NGC3198 = 3.14 kpc, NGC6503 = 2.16 kpc, UGC08490 = 0.67 kpc
+input >> h
